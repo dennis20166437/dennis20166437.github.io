@@ -1,7 +1,5 @@
 # Dennis Too
 
-
-
 ### profile
 
 **started**:28/08/2026
