@@ -1,12 +1,12 @@
-\# Dennis
+# Dennis Too
 
 
 
-&#x20;### profile
+### profile
 
-\*\*started\*\*:toady's date
+**started**:28/08/2026
 
-\*\*role\*\*:software developer
+**role**:student
 
-\*\*Hobbies\*\*: Rowing, Reading, and Role playing
+**Hobbies**: Rowing, Reading, and Swimming
 
